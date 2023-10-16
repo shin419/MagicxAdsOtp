@@ -19,7 +19,7 @@ initializeApp(firebaseConfig);
 
 import { getStorage, ref, getDownloadURL } from "firebase/storage";
 
-const pathReference = ref(getStorage(), "magixads.zip");
+const pathReference = ref(getStorage(), "magicxads.rar");
 
 export default defineComponent({
   name: "App",
