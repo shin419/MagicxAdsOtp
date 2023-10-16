@@ -1,0 +1,28 @@
+[debug] [2023-10-16T15:53:36.975Z] ----------------------------------------------------------------------
+[debug] [2023-10-16T15:53:36.977Z] Command:       /opt/homebrew/Cellar/node/20.6.1/bin/node /opt/homebrew/bin/firebase init
+[debug] [2023-10-16T15:53:36.977Z] CLI Version:   12.7.0
+[debug] [2023-10-16T15:53:36.977Z] Platform:      darwin
+[debug] [2023-10-16T15:53:36.977Z] Node Version:  v20.6.1
+[debug] [2023-10-16T15:53:36.977Z] Time:          Mon Oct 16 2023 22:53:36 GMT+0700 (Indochina Time)
+[debug] [2023-10-16T15:53:36.977Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-16T15:53:36.980Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-10-16T15:53:36.980Z] > authorizing via signed-in user (metaads1997@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/macbook/Desktop/Dev/Web/MagicxAdsOpt
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
